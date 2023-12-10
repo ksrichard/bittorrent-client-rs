@@ -28,7 +28,6 @@ async fn main() -> Result<(), Error> {
 
 ### Prerequisites
 - Install [Rust](https://www.rust-lang.org/tools/install) (latest stable version)
-- **(Optional)** [Install Docker](https://docs.docker.com/engine/install/)
 
 - ### Steps
   - Open a new terminal
