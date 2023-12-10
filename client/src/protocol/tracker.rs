@@ -43,6 +43,7 @@ pub struct TrackerUrl {
     tracker_id: Option<usize>,
 }
 
+#[allow(dead_code)]
 impl TrackerUrl {
     pub fn new(announce_url: String, peer_id: String) -> Self {
         Self {
